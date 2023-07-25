@@ -1,3 +1,3 @@
 # crud-assignment
 
-[![Watch the video]](./demo.mov)
+[![Watch the video]](https://github.com/rayehizoba/crud-assignment/blob/main/demo.mov)
